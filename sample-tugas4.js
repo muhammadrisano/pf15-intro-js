@@ -28,3 +28,5 @@ const returnDay =(clock)=>{
     // logic
 }
 const result = returnDay(10)
+// result:
+// pagi

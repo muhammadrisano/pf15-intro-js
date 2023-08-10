@@ -58,3 +58,5 @@ const text = "saya ingin menjadi programmer handal"
 const resultText =text.split(' ').reverse().join(' ')
 
 console.log(resultText)
+
+
